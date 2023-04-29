@@ -1,0 +1,5 @@
+export { Albums, AlbumsDocument } from './albums.entity'
+export { Tags, TagsDocument } from './tags.entity'
+export { Tracks, TracksDocument } from './tracks.entity'
+export { Users, UsersDocument } from './users.entity'
+export { Watch, WatchDocument } from './watch.entity'
